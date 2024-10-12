@@ -1,0 +1,10 @@
+bin/*.o
+bin/sfetool
+
+*.log
+
+.env
+
+data/*
+
+.vscode
